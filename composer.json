@@ -1,0 +1,15 @@
+{
+    "name": "lradonic/php-no-framework",
+    "autoload": {
+        "psr-4": {
+            "PhpNoFramework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leonhard Radonic",
+            "email": "lradonic@pascom.net"
+        }
+    ],
+    "require": {}
+}
